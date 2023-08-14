@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1691322799 source:e:\c program\stack_ds\stack_dynamic_ds\stack_dyn_ds.c
+	"Stack_Dyn_ds.h"
+
+1691322799 e:\c program\stack_ds\stack_dynamic_ds\stack_dyn_ds.h
+	<stdlib.h>
+	"Platform_Types.h"
+
+1691309470 e:\c program\stack_ds\stack_dynamic_ds\platform_types.h
+
+1691322433 source:e:\c program\stack_ds\stack_dynamic_ds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Stack_Dyn_ds.h"
+
